@@ -1,2 +1,10 @@
 This is test part 
 This line I 've already changed something noo but it's unchanged in github
+I've changed the text file and uploaded a new picture by using the following:
+
+1. git status : to show the status of files:  add or non-add
+2. git add . : to add all new files within current project 
+3. git status
+4. git commit -m "your_message"
+5. git push origin main ( if you've clone this project from Github and modified in it)
+  OR git push origin master ( if you've 
