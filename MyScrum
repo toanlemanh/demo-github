@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T08:59:32.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cJV5UYdWsL43d3h2xN4w" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T09:02:16.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5HIZkK7uW-hO0GcPAUAz" version="21.6.9" type="github">
   <diagram name="Trang-1" id="xYFgAEJ5LCGGcJ0XZ5XZ">
-    <mxGraphModel dx="1339" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -123,6 +123,18 @@
         </mxCell>
         <mxCell id="wajlsfzI-0ECd6p-bo7j-59" value="Scrum Team" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="652.4" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wajlsfzI-0ECd6p-bo7j-60" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wajlsfzI-0ECd6p-bo7j-61" value="PO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wajlsfzI-0ECd6p-bo7j-62" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-30" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wajlsfzI-0ECd6p-bo7j-63" value="Scrum Master" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
